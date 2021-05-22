@@ -10,12 +10,13 @@ tags: [raspberry pi]
 
 Raspberry Pi 讓你花幾千塊就可以組一台便宜又好用的微型電腦，也因為它的開放性平台，也越來越多人加入使用。
 
-![chart](/img/2020-08-27/avatar-icon.png)
+![chart](/assets/img/2020-08-27/avatar-icon.png)
 
 [https://www.raspberrypi.org/products/raspberry-pi-4-model-b/!](www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+
 這裡也有詳細的介紹
 
-![price!](/img/2020-08-27/price.png)
+![price](/assets/img/2020-08-27/price.png)
 
 最近，官方更提供方便的安裝工具
 官方提供的作業系統名稱之前為 Raspbian 現在改名稱為 Raspberry Pi OS
@@ -23,7 +24,7 @@ Raspberry Pi 讓你花幾千塊就可以組一台便宜又好用的微型電腦�
 
 [https://www.raspberrypi.org/downloads/!](www.raspberrypi.org/downloads/)
 
-![flash_image!](/img/2020-08-27/image_download.png)
+![flash_image](/assets/img/2020-08-27/image_download.png)
 
 使用上更輕鬆方便
 只要
@@ -32,6 +33,6 @@ Raspberry Pi 讓你花幾千塊就可以組一台便宜又好用的微型電腦�
 3. Write : 等待 SD 卡 寫入完成
 4. 退出SD 卡 後 插入 樹莓派 並且接上電源即可使用
 
-![flash_image!](/img/2020-08-27/flash_image.png)
+![flash_image!](/assets/img/2020-08-27/flash_image.png)
 
 是不是很方便
