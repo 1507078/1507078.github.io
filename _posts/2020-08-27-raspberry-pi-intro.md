@@ -10,7 +10,7 @@ Raspberry Pi 讓你花幾千塊就可以組一台便宜又好用的微型電腦�
 
 ![chart](/assets/img/2020-08-27/avatar-icon.png)
 
-[官網](www.raspberrypi.org/products/raspberry-pi-4-model-b/)也有詳細的介紹
+[官網](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)也有詳細的介紹
 
 ![price](/assets/img/2020-08-27/price.png)
 
@@ -18,7 +18,7 @@ Raspberry Pi 讓你花幾千塊就可以組一台便宜又好用的微型電腦�
 <br>官方提供的作業系統名稱之前為 Raspbian 現在改名稱為 Raspberry Pi OS<br/>
 <br>官方也有提供直接下載image 與 燒錄到 SD Card 的工具 - Raspberry Pi Imager<br/>
 
-[官方下載位置](www.raspberrypi.org/downloads/)
+[官方下載位置](https://www.raspberrypi.org/downloads/)
 
 ![image download](/assets/img/2020-08-27/image_download.png)
 
